@@ -1,16 +1,29 @@
-## Hi there 👋
+# ⏾ Seth's GitHub
 
-<!--
-**sethchang27/sethchang27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub!
+I am Seth, a **Data Science** student at the University of Warwick. My technical background spans **software development**, **machine learning engineering** & **traditional data analytics**. 
 
-Here are some ideas to get you started:
+## 🗂️ Projects
+### ☁︎ ✈︎ [Flight Price Predictor](https://github.com/sethchang27/flight-price-predictor)<br />
+This project implements astatistically-driven machine learning pipeline for predicting flight prices in the Indian aviation market using **Scikit-Learn** and **Pandas**.<br />
+- Exploratory Data Analysis & Feature Engineering
+- Statistical Correlation Analysis
+- Model Selection & Validation
+- Model Pipelines using **Scikit-Learn**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦠 [Multimodal Prostate Cancer BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor)<br />
+This computational pathology projects implements a multimodal deep learning pipeline using histology and radiology images to predict prostate cancer outcomes using **PyTorch**.
+- Foundational models used as encoders to extract embeddings from histology and radiology data
+- Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
+- Expirimented with intermediate and late fusion methadologies, highlighting multimodal deep learning models have superior performance to unimodal approaches
+
+
+## 🛠️ Technologies
+- **Programming Languages**: Python, Java, C#, R<br />
+- **Data Analysis**: Pandas, MatPlotLib, NumPy<br />
+- **Machine Learning**: Scikit-Learn, PyTorch<br />
+- **Cloud Computing**: AWS
+
+
+
+
