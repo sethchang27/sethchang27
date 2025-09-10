@@ -5,7 +5,7 @@ I am Seth, a **Data Science** student at the University of Warwick. My technical
 
 ## 🗂️ Projects
 ### ☁︎ ✈︎ [Flight Price Predictor](https://github.com/sethchang27/flight-price-predictor)<br />
-This project implements astatistically-driven machine learning pipeline for predicting flight prices in the Indian aviation market using **Scikit-Learn** and **Pandas**.<br />
+This project implements a statistically-driven machine learning pipeline for predicting flight prices in the Indian aviation market using **Scikit-Learn** and **Pandas**.<br />
 - Exploratory Data Analysis & Feature Engineering
 - Statistical Correlation Analysis
 - Model Selection & Validation
