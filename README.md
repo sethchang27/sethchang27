@@ -15,7 +15,7 @@ This project implements a statistically-driven machine learning pipeline for pre
 This computational pathology projects implements a multimodal deep learning pipeline using histology and radiology images to predict prostate cancer outcomes using **PyTorch**.
 - Foundational models used as encoders to extract embeddings from histology and radiology data
 - Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
-- Expirimented with intermediate and late fusion methadologies, highlighting multimodal deep learning models have superior performance to unimodal approaches
+- Expirimented with intermediate and late fusion methadologies, highlighting multimodal deep learning models have superior performance compared to unimodal approaches
 
 
 ## 🛠️ Technologies
