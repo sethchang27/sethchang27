@@ -22,6 +22,7 @@ This computational pathology projects implements a multimodal deep learning pipe
 - **Programming Languages**: Python, Java, C#, R<br />
 - **Data Analysis**: Pandas, MatPlotLib, NumPy<br />
 - **Machine Learning**: Scikit-Learn, PyTorch<br />
+- **Databases**: PostgreSQL, MySQL<br />
 - **Cloud Computing**: AWS
 
 
