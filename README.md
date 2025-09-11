@@ -11,7 +11,7 @@ This project implements a statistically-driven machine learning pipeline for pre
 - Model Selection & Validation
 - Model Pipelines using **Scikit-Learn**
 
-### 🦠 [Multimodal Prostate Cancer BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor)<br />
+### 🦠 [Multimodal Prostate Cancer BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor) (Currently in Progress) <br />
 This computational pathology projects implements a multimodal deep learning pipeline using histology and radiology images to predict prostate cancer outcomes using **PyTorch**.
 - Foundational models used as encoders to extract embeddings from histology and radiology data
 - Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
