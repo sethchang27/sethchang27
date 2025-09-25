@@ -5,11 +5,12 @@ I am Seth, a **Data Science** student at the University of Warwick. My technical
 
 ## 🗂️ Projects
 ### 🦠 [Multimodal Prostate Cancer Time-To-BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor) <br />
-This research project investigates whether combining radiology and histology data through multimodal deep learning approaches can improve predictions of time to biochemical recurrence (BCR) following prostatectomy compared to unimodal approaches using **PyTorch**.
+This research project investigates whether combining radiology and histology data through **multimodal deep learning** can improve predictions of time to biochemical recurrence (BCR) following prostatectomy compared to using either data type alone. This project was done using **PyTorch**.
+
 - Foundational models used as encoders to extract embeddings from histology and radiology data
 - Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
 - Developed intermediate fusion architectures using **cross-attention** and **self-attention**
-- Benchmarked the best performing Unimodal models versus the best performing Multimodal models
+- Benchmarked the best performing unimodal model versus the best performing multimodal models to explore if combining modalities yield better results for predictions
   
 ### ☁︎ ✈︎ [Flight Price Predictor](https://github.com/sethchang27/flight-price-predictor)<br />
 This project implements a statistically-driven machine learning pipeline for predicting flight prices in the Indian aviation market using **Scikit-Learn** and **Pandas**.<br />
