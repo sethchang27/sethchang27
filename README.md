@@ -4,19 +4,19 @@
 I am Seth, a **Data Science** student at the University of Warwick. My technical background spans **software development**, **machine learning engineering** & **traditional data analytics**. 
 
 ## 🗂️ Projects
+### 🦠 [Multimodal Prostate Cancer Time-To-BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor) <br />
+This research project investigates whether combining radiology and histology data through multimodal deep learning approaches can improve predictions of time to biochemical recurrence (BCR) following prostatectomy compared to unimodal approaches using **PyTorch**.
+- Foundational models used as encoders to extract embeddings from histology and radiology data
+- Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
+- Developed intermediate fusion architectures using **cross-attention** and **self-attention**
+- Benchmarked the best performing Unimodal models versus the best performing Multimodal models
+  
 ### ☁︎ ✈︎ [Flight Price Predictor](https://github.com/sethchang27/flight-price-predictor)<br />
 This project implements a statistically-driven machine learning pipeline for predicting flight prices in the Indian aviation market using **Scikit-Learn** and **Pandas**.<br />
 - Exploratory Data Analysis & Feature Engineering
 - Statistical Correlation Analysis
 - Model Selection & Validation
 - Model Pipelines using **Scikit-Learn**
-
-### 🦠 [Multimodal Prostate Cancer BCR Predictor](https://github.com/mm-amjad/multimodal-bcr-predictor) (Currently in Progress) <br />
-This computational pathology project implements a multimodal deep learning pipeline using histology and radiology images to predict prostate cancer outcomes using **PyTorch**.
-- Foundational models used as encoders to extract embeddings from histology and radiology data
-- Evaluation of encoders using a custom built MLP architecture for both modalities, utilising hyperparameter tuning and repeated K-fold cross validation
-- Expirimented with intermediate and late fusion methadologies, highlighting multimodal deep learning models have superior performance compared to unimodal approaches
-
 
 ## 🛠️ Technologies
 - **Programming Languages**: Python, Java, C#, R<br />
